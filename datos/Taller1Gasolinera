@@ -1,0 +1,13 @@
+tipo:Extra:12000:20.0
+tipo:Corriente:15000:10.0
+tipo:Diesel:11000:32.0
+tipo:Plus:14000:28.0
+surtidor:Magola Ruiz:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Ramiro Mendez:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Juan Perez:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Luis Hurtado:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+empleado:Andrea Salamanca:0
+empleado:Juan Perez:0
+empleado:Luis Hurtado:0
+empleado:Ramiro Mendez:0
+empleado:Magola Ruiz:0
