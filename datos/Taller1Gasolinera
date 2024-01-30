@@ -1,13 +1,13 @@
-tipo:Extra:12000:20.0
-tipo:Corriente:15000:10.0
-tipo:Diesel:11000:32.0
-tipo:Plus:14000:28.0
-surtidor:Magola Ruiz:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
-surtidor:Ramiro Mendez:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
-surtidor:Juan Perez:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
-surtidor:Luis Hurtado:Extra:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+tipo:Extra:12000:0.0
+tipo:Corriente:15000:0.0
+tipo:Diesel:11000:7.09090909090909
+tipo:Plus:14000:10.0
+surtidor:Magola Ruiz:Extra:0.0:Corriente:10.0:Diesel:12.0:Plus:0.0
+surtidor:Ramiro Mendez:Extra:0.0:Corriente:0.0:Diesel:12.0:Plus:18.0
+surtidor:Juan Perez:Extra:19.998166666666666:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Luis Hurtado:Extra:0.0018333333333333333:Corriente:0.0:Diesel:0.9090909090909091:Plus:0.0
 empleado:Andrea Salamanca:0
-empleado:Juan Perez:0
-empleado:Luis Hurtado:0
-empleado:Ramiro Mendez:0
-empleado:Magola Ruiz:0
+empleado:Juan Perez:239978
+empleado:Ramiro Mendez:384000
+empleado:Luis Hurtado:10022
+empleado:Magola Ruiz:282000
