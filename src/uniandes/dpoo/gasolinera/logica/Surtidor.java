@@ -54,18 +54,9 @@ public class Surtidor
      * @param nombreTipoGasolina El nombre del tipo de gasolina
      * @return La cantidad de galones, o null si el tipo de gasolina no se ofrece en el surtidor
      */
-    public Double getGalonesVendidos(String nombreTipoGasolina) {
-        Double galones = galonesVendidos.get(nombreTipoGasolina);
-
-        if (galones != null) {
-            if (galones.equals(1.0) || galones.equals(2.2) || galones.equals(3.0) || galones.equals(0.0) || galones.equals(4.0)) {
-                galones *= 1;
-            }
-            else {
-            	galones *= -1;
-            }
-        } 
-        return galones;
+    public Double getGalonesVendidos(String nombreTipoGasolina) 
+    { 
+        return galonesVendidos.get(nombreTipoGasolina);
     }
     /**
      * Cambia la cantidad de galones vendidos de un cierto tipo de gasolina
@@ -118,7 +109,7 @@ public class Surtidor
 
         // Actualizar la cantidad de gasolina vendida en el surtidor
         double cantidadAnterior = galonesVendidos.get( nombreTipoGasolina );
-        galonesVendidos.put( nombreTipoGasolina, cantidadAnterior - cantidadEntregada );
+        galonesVendidos.put( nombreTipoGasolina, cantidadAnterior + cantidadEntregada );
 
         return precio;
     }
